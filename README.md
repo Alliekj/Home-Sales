@@ -1,8 +1,5 @@
 ## Home Sales Analysis with PySpark
 
-**Project Overview**:
-This project utilizes PySpark to perform various analyses on a dataset of home sales. The dataset includes information about properties such as the number of bedrooms, bathrooms, square footage, year built, view rating, and more. The project explores different aspects of the data, including average home prices based on various criteria.
-
 **Key Features**:
 1. Data Ingestion:
 
